@@ -1,0 +1,12 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.LiveServer",
+                "streetsidesoftware.code-spell-checker",
+                "DavidKaiser.kaiser-project-zip"
+            ]
+        }
+    }
+    
+}
