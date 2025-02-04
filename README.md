@@ -14,9 +14,9 @@ button click.
 
 |Item|Out Of|
 |--|--:|
-|fetching and `console.log` of data|1|
-|styled page|2|
-|update dynamically with button press|2|
+|fetching and `console.log` of data|4|
+|styled page|3|
+|update dynamically with button press|3|
 |bonus - error handling|1|
 |||
 |total|11|
